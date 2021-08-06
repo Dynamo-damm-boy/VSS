@@ -7,7 +7,9 @@ use this command to install all the requirements that is needed to run VSS
 pip install -r requirements.txt 
 ~~~
 
-run the bash file with
+to run the code
+
+run the bash file
 
 ~~~
 ./start.sh
@@ -17,4 +19,5 @@ or
 ~~~
 python VideoSurveillanceSystem.py 
 ~~~
-to run the code
+
+share the user experience
