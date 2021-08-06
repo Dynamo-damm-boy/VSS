@@ -1,14 +1,20 @@
 # VSS
 #VIDEO SURVEILLANCE SYSTEM BASED ON MOTION DETECTION USING PYTHON
 
-**pip install -r requirements.txt** 
-
 use this command to install all the requirements that is needed to run VSS
 
-**./start.sh**
+~~~
+pip install -r requirements.txt 
+~~~
 
+run the bash file with
+
+~~~
+./start.sh
+~~~
 or
 
-**python VideoSurveillanceSystem.py** 
-
+~~~
+python VideoSurveillanceSystem.py 
+~~~
 to run the code
