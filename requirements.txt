@@ -1,0 +1,8 @@
+imutils==0.5.4
+numpy==1.21.1
+opencv-python==4.5.3.56
+pycairo==1.16.2
+python-xlib==0.20
+pyxdg==0.25
+setproctitle==1.1.10
+six==1.11.0
